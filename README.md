@@ -26,13 +26,38 @@ This repository contains materials for the presentation titled **"Looking into V
 
 ### Files Included:
 - **Presentation Markdown File**: `Sustainable_Growth_Panel_Extended.md` - The full markdown file containing the presentation content, including references and examples.
-- **Abstract Markdown File**: `Abstract_Sustainable_Growth_Panel.md` - The abstract for the presentation, suitable for a call for papers or conference submissions.
+- **Abstract Markdown File**: `Abstract_Sustainable_Growth_Panel.md` - The abstract for the presentation.
 - **Appendix**: References and links to sources cited in the presentation.
 
 ## Usage
 
 ### Viewing the Presentation
-The presentation content is available in markdown format, which can be viewed in any markdown viewer or text editor. For a more interactive experience, consider converting the markdown file to a presentation format using tools like Pandoc, reveal.js, or Deckset.
+The presentation content is available in markdown format and uses MARP for generating the pdf. 
+
+Install MARP cli
+
+```
+npm install -g @marp-team/marp-cli
+```
+
+Go to the location of your presentation
+
+```
+cd /path/to/marp-presentation
+```
+
+Serve your presentation
+
+```
+marp --serve presentation.md
+```
+
+Export as PDF 
+```
+marp presentation.md --pdf
+```
+
+Alternatively, you can convert the markdown file to a presentation format using other tools like Pandoc, reveal.js, or Deckset.
 
 ### Contributing
 If you would like to contribute to this presentation, feel free to fork the repository, make your changes, and submit a pull request. Contributions focused on adding new insights, examples, or updates to the content are especially welcome.
