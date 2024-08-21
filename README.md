@@ -25,8 +25,8 @@ This repository contains materials for the presentation titled **"Looking into V
    - Real-world examples of green data centers and energy-aware software architectures.
 
 ### Files Included:
-- **Presentation Markdown File**: `Sustainable_Growth_Panel_Extended.md` - The full markdown file containing the presentation content, including references and examples.
-- **Abstract Markdown File**: `Abstract_Sustainable_Growth_Panel.md` - The abstract for the presentation.
+- **Presentation Markdown File**: `Sustainable_Growth_Presentation.md` - The full markdown file containing the presentation content, including references and examples.
+- **Abstract Markdown File**: `Abstract_Sustainable_Growth.md` - The abstract for the presentation.
 - **Appendix**: References and links to sources cited in the presentation.
 
 ## Usage
