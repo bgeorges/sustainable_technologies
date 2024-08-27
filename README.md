@@ -27,6 +27,7 @@ This repository contains materials for the presentation titled **"Looking into V
 ### Files Included:
 - **Presentation Markdown File**: `Sustainable_Growth_Presentation.md` - The full markdown file containing the presentation content, including references and examples.
 - **Abstract Markdown File**: `Abstract_Sustainable_Growth.md` - The abstract for the presentation.
+- **Sustainable_Technology_Efforts**: `Sustainable_Technology_Efforts.md` - A list of Sustaintable efforts and initiatives across the tech industry.
 - **Appendix**: References and links to sources cited in the presentation.
 
 ## Usage
