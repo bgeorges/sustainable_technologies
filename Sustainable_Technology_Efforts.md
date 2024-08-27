@@ -19,6 +19,7 @@
 
 ## 4. Eco-Friendly Software Development
 
+- **[Write Greener Java applications](https://www.redhat.com/en/resources/greener-java-applications-detail)**: Red Hat's work on optimizing Java Applications for Energy Efficiency.
 - **[Green Code Lab](https://www.greencodelab.fr/)**: A collaborative project that brings together academics, industry professionals, and developers to promote energy-efficient coding practices.
 - **[CodeCarbon](https://codecarbon.io/)**: An open-source project that helps developers track the carbon emissions of their Python code.
 
@@ -52,10 +53,3 @@
 - **[ISO 50001](https://www.iso.org/iso-50001-energy-management.html)**: Provides a framework for organizations to manage and reduce energy consumption.
 - **[The Greenhouse Gas Protocol (GHG Protocol)](https://ghgprotocol.org/)**: Provides standards and tools for businesses and governments to measure and manage emissions.
 """
-
-# Save the content to a markdown file
-
-with open("/mnt/data/Sustainable_Technology_Efforts.md", "w") as file:
-    file.write(efforts_content)
-
-"/mnt/data/Sustainable_Technology_Efforts.md"
