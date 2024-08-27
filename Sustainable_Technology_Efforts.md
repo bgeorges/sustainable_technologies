@@ -14,6 +14,7 @@
 
 ## 3. Sustainable Cloud Computing
 
+- **[Red Hat's Kruize Autotune](https://github.com/kruize/autotune)**: Kruize Autotune optimizes container performance for energy efficiency and right-sizing, it is part of Red Hat's sustainability goals, and plans to extend into AI workload optimization on GPUs.**
 - **[Microsoft’s Azure Sustainability Initiatives](https://azure.microsoft.com/en-us/global-infrastructure/sustainability/)**: Microsoft Azure offers carbon footprint tools and aims to be carbon negative by 2030.
 - **[Google Cloud’s Sustainability Commitments](https://cloud.google.com/sustainability)**: Google Cloud provides tools and resources to help businesses operate more sustainably.
 
