@@ -3,7 +3,7 @@
 
 ## 1. Green Software Engineering
 
-- **[Green Software Foundation](https://greensoftware.foundation/)**: A collaborative effort by major tech companies like Microsoft, Accenture, and GitHub to create and promote sustainable software practices.
+- **[Green Software Foundation](https://greensoftware.foundation/)**: A collaborative effort by major tech companies like Red Hat, Microsoft, Accenture, and GitHub to create and promote sustainable software practices.
 - **[Sustainable Computing Consortium (SCC)](https://www.cmu.edu/silicon-valley/academics/sustainable-computing-consortium.html)**: Focuses on research and development of technologies that enable more energy-efficient computing systems.
 
 ## 2. Energy-Efficient Data Centers
